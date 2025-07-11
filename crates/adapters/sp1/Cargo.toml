@@ -28,7 +28,7 @@ serde = { workspace = true, features = [
     "derive",
 ] }
 sha2 = { workspace = true }
-sp1-lib = { version = "3.0.0" }
+sp1-lib = { version = "4.1.7" }
 
 sov-rollup-interface = { workspace = true }
 sov-metrics = { workspace = true, features = ["sp1"], optional = true }
