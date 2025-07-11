@@ -84,7 +84,7 @@ hex = "0.4.3"
 sha2 = "0.10.8"
 tempfile = "3.12"
 proptest = { version = "1.5", features = ["alloc"] }
-tokio = { version = "1.42", features = ["full"] }
+tokio = { version = "1.46", features = ["full"] }
 tracing-subscriber = "0.3.18"
 rand = "0.8"
 
