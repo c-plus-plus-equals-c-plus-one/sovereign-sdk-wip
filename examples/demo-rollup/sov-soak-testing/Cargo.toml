@@ -10,7 +10,7 @@ publish = false
 default-run = "main"
 
 [dependencies]
-tokio = { version = "1.42", default-features = false }
+tokio = { version = "1.46", default-features = false }
 borsh = { workspace = true, features = ["derive"] }
 
 schemars = { version = "0.8.21", features = ["derive"] }
